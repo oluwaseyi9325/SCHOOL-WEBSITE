@@ -1,0 +1,136 @@
+#nav-all {
+  background-color: #800000 !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+#admin-drop:hover {
+  background-color: #FF9600;
+  color: white !important;
+  font-weight: bold;
+}
+
+#r-d-c {
+  font-weight: bolder;
+  color: lightgray !important;
+  font-size: 40px;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  -webkit-animation-name: rdc;
+          animation-name: rdc;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+          animation-duration: 4s;
+  border: 1px dotted #FF9600;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+#carol-1 {
+  background-image: url("img royal/carol-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 10%;
+  /* background-clip: border-box; */
+  height: 700px;
+  top: 20px;
+  font-weight: bolder;
+}
+
+#carol-2 {
+  background-image: url("img royal/carol 2.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 10%;
+  /* background-clip: border-box; */
+  height: 700px !important;
+  top: 20px;
+  font-weight: bolder;
+}
+
+#carol-3 {
+  background-image: url("img royal/carol-3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 10%;
+  /* background-clip: border-box; */
+  height: 700px;
+  top: 20px;
+  font-weight: bolder;
+}
+
+#carol-4 {
+  background-image: url("img royal/carol 4.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 10%;
+  /* background-clip: border-box; */
+  height: 700px;
+  top: 20px;
+  font-weight: bolder;
+}
+
+#carol-5 {
+  background-image: url("img royal/carol-5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 10%;
+  /* background-clip: border-box; */
+  height: 700px;
+  top: 20px;
+  font-weight: bolder;
+}
+
+#carol-6 {
+  background-image: url("img royal/carol 6.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 10%;
+  /* background-clip: border-box; */
+  height: 700px;
+  top: 20px;
+  font-weight: bolder;
+}
+
+#head-1 {
+  padding-top: 250px !important;
+  font-size: 50px;
+  font-weight: bolder !important;
+  font-variant: small-caps !important;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-shadow: 2px 2px 2px #800000;
+}
+
+#text-1 {
+  font-weight: bolder;
+  white-space: pre-line;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  width: 50%;
+  text-align: center !important;
+  margin-left: 350px;
+  text-shadow: 2px 2px 2px #800000;
+}
+
+#btn-apply {
+  background-color: #FF9600 !important;
+  border: 0 !important;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+@media screen and (max-width: 800px) {
+  #text-1 {
+    font-weight: bolder;
+    white-space: pre-line;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    width: 50%;
+    text-align: center !important;
+    margin-left: 100px;
+    text-shadow: 2px 2px 2px #800000;
+  }
+}
+/*# sourceMappingURL=school2.css.map */

@@ -1,0 +1,57 @@
+.footer{
+    background-color: #2B2F31 !important;
+}
+.footer-1{
+    display: grid;
+    
+}
+.link-all{
+    text-decoration: none;
+    color:#FF9600 !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+}
+#list-1{
+    grid-row: 1;
+    grid-column: 2;
+}
+#list-2{
+    grid-row: 1;
+    grid-column: 4;
+}
+#list-3{
+    grid-row: 1;
+    grid-column: 6;
+}
+#list-4{
+    grid-row: 1;
+    grid-column: 8;
+}
+.h6{
+    color: white !important;
+    font-variant: small-caps;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.royal-footer{
+    color: white !important;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 2px 2px 2px #FF9600;
+    line-height: 0.5;
+}
+.copy-all{
+    
+    font-style:italic;
+}
+@media screen and (max-width:800px){
+    #list-4{
+        display: none;
+    }
+    .link-all{
+        font-size: 13px;
+    }
+   
+}

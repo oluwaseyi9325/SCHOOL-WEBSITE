@@ -1,0 +1,22 @@
+.grid-portal{
+    display: grid;
+}
+#grid-1{
+    grid-row: 1;
+    grid-column: 2;
+}
+#grid-2{
+    grid-row: 1;
+    grid-column: 4;
+}
+.input-log{
+    border-radius: 10px;
+    background-color:  #FF9600 !important;
+}
+.btn-right{
+    background-color: #800000 !important;
+    border: 0 !important;
+}
+.e-portal:active{
+    color: lime !important;
+}
